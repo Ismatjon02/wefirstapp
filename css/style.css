@@ -15,6 +15,7 @@ overflow-x: auto;
     top: 29%;
     left: 17%;
     border-radius: 20%; 
+    background-image: url(Kaba.jpg);
     
 }
 .ekran {
@@ -31,16 +32,16 @@ overflow-x: auto;
 .tugma {
     left: 38%;
     position: absolute;
-    width: 130px;
-    height: 115px;
+    width: 160px;
+    height: 130px;
     border-radius: 50%;
     top: 44%;
     background: gray;
 }
 .nolga {
     
-    width: 83px;
-    height: 75px;
+    width: 98px;
+    height: 90px;
     background: red;
     position: absolute;
     top: 76%;
