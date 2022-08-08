@@ -4,6 +4,8 @@
     height: 660px;
     background: tan;
     border: 1.5px solid green;
+    position: fixed;
+    overflow-y: hidden;
     top: 29%;
     left: 17%;
     border-radius: 20%; 
