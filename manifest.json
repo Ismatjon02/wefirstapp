@@ -9,6 +9,37 @@
   "orientation": "portrait-primary",
   "icons": [
     {
+      "src" : " /images/icons/icon-24x24.png " ,
+      "type" : " image/png " ,
+      "o'lchamlari" : " 24x24 " ,
+      "purpose" : " har qanday maskalanuvchi "
+    },
+
+   {
+      "src" : " /images/icons/icon-32x32.png " ,
+      "type" : " image/png " ,
+      "o'lchamlari" : " 32x32 " ,
+      "purpose" : " har qanday maskalanuvchi "
+    },
+     {
+      "src" : " /images/icons/icon-36x36.png " ,
+      "type" : " image/png " ,
+      "o'lchamlari" : " 36x36 " ,
+      "purpose" : " har qanday maskalanuvchi "
+    },
+     {
+      "src" : " /images/icons/icon-44x44.png " ,
+      "type" : " image/png " ,
+      "o'lchamlari" : " 44x44" ,
+      "purpose" : " har qanday maskalanuvchi "
+    },
+     {
+      "src" : " /images/icons/icon-50x50.png " ,
+      "type" : " image/png " ,
+      "o'lchamlari" : " 50x50 " ,
+      "purpose" : " har qanday maskalanuvchi "
+    },
+    {
       "src": "/images/icons/icon-48x48.png",
       "type": "image/png",
       "sizes": "48x48",
